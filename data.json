@@ -1,0 +1,35 @@
+{
+"Bremen":
+    [   {
+            "city": "Bremen",
+            "place":"BürgerServiceCenter-Nord",
+            "type": "Wohnungsmeldungen",
+            "subtype": "Wohnsitz ummelden",
+            "start_link":"https://termin.bremen.de/termine/select2?md=6&lang=de_DE",
+            "cookies_steps_ids": ["cookie_msg_btn_no"],
+            "steps_ids": ["concerns_accordion-3251", "button-plus-8639", "WeiterButton"],
+            "flag_check": "Aktuell sind leider keine Termine frei."
+        },
+        {
+            "city": "Bremen",
+            "place":"BürgerServiceCenter-Mitte",
+            "type": "Wohnungsmeldungen",
+            "subtype": "Wohnsitz ummelden",
+            "start_link":"https://termin.bremen.de/termine/select2?md=5&lang=de_DE",
+            "cookies_steps_ids": ["cookie_msg_btn_no"],
+            "steps_ids": ["concerns_accordion-3241", "button-plus-8591", "WeiterButton"],
+            "flag_check": "Aktuell sind leider keine Termine frei."
+        },
+      {
+            "city": "Bremen",
+            "place":"BürgerServiceCenter-Stresemannstraße",
+            "type": "Wohnungsmeldungen",
+            "subtype": "Wohnsitz ummelden",
+            "start_link":"https://termin.bremen.de/termine/select2?md=4&lang=de_DE",
+            "cookies_steps_ids": ["cookie_msg_btn_no"],
+            "steps_ids": ["concerns_accordion-3269", "button-plus-8684", "WeiterButton"],
+            "flag_check": "Aktuell sind leider keine Termine frei."
+        }
+      
+    ]
+}
