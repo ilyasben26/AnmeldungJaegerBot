@@ -1,6 +1,6 @@
 # Anmeldung Jäger Bot
 <p align="center">
-<img src="./Logo.png" width="500" height="500">
+<img src="./logo.png" width="500" height="500">
 </p>
 
 # What does it do?
